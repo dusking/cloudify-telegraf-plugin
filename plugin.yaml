@@ -1,0 +1,5 @@
+plugins:
+  telegraf:
+    executor: host_agent
+    package_name: cloudify-telegraf-plugin
+    package_version: '0.0.1'
